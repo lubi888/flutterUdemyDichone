@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1020224418317",
+    "firebase_url": "https://flutterudemy-73d50.firebaseio.com",
+    "project_id": "flutterudemy-73d50",
+    "storage_bucket": "flutterudemy-73d50.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1020224418317:android:6353c110d6267719",
+        "android_client_info": {
+          "package_name": "com.example.liberties.firebase.firebaseflutterudemy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1020224418317-kcql5ooh44f7giuq3b3e55plnh6o6ute.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.liberties.firebase.firebaseflutterudemy",
+            "certificate_hash": "bf893d303a9fbad00ae244e1884c6f317ac99640"
+          }
+        },
+        {
+          "client_id": "1020224418317-nsuus2g2k9sbf0g6i93mibakeuatg0vt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPsvl3iBbDRasa2fyOADtOqDytK4nhRSY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1020224418317-nsuus2g2k9sbf0g6i93mibakeuatg0vt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

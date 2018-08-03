@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "288968254175",
+    "firebase_url": "https://flutterchatudemy.firebaseio.com",
+    "project_id": "flutterchatudemy",
+    "storage_bucket": "flutterchatudemy.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:288968254175:android:14deb770f68660d2",
+        "android_client_info": {
+          "package_name": "com.example.firebasechatudemy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "288968254175-q8633ddplttl6v1fvl6lv4enklv79ta0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.firebasechatudemy",
+            "certificate_hash": "bf893d303a9fbad00ae244e1884c6f317ac99640"
+          }
+        },
+        {
+          "client_id": "288968254175-3dskjelhil1a1r1798gghsgqj50capb3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxpz0GNce03OUQA3iZkyi-1Oow2X0hZbI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "288968254175-3dskjelhil1a1r1798gghsgqj50capb3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
